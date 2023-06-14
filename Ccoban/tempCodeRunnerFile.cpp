@@ -1,0 +1,1 @@
+        return random(i+1);
